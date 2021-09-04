@@ -16,15 +16,15 @@ function Home() {
         <Carousel.Item interval={3000}>
           <img className="d-block w-100" src={image2} style={mystyle} alt="image1" />
           <Carousel.Caption>
-            <h3>Label for second slide</h3>
-            <p>Sample Text for Image Two</p>
+            <h3>Label for First slide</h3>
+            <p>Sample Text for Image one</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={3000}>
           <img className="d-block w-100" src={image3} style={mystyle} alt="image2" />
           <Carousel.Caption>
-            <h3>Label for Third slide</h3>
-            <p>Sample Text for Image Three</p>
+            <h3>Label for Second slide</h3>
+            <p>Sample Text for Image Two</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={3000}>
